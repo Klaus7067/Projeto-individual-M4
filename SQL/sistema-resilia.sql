@@ -19,3 +19,17 @@ create table alunos(
     numero_aluno varchar(11),
     data_nascimento datetime 
 )
+
+create table notas(
+	id_aluno int primary key,
+    id_materia int,
+    nota int
+)
+
+create table professores(
+	id_professores int primary key,
+    nome_professores varchar(100) not null,
+    numero_professores varchar(11)
+)
+
+
