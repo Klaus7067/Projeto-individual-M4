@@ -9,7 +9,7 @@
 ⇨ Existem outras entidades além dessas três?
 
 
-R:
+R: Sim, porque só com as entidades fornecidas não seria possível montar um Banco de Dados robusto e eficiente. 
 
 
 ⇨ Quais são os principais campos e tipos?
