@@ -23,4 +23,4 @@ R:
 
 R:
 
- <img src="./img.individual.png" alt="">
+<img src="./img/individual.png">
