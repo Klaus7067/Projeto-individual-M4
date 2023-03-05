@@ -15,12 +15,13 @@ R: Sim, porque só com as entidades fornecidas não seria possível montar um Ba
 ⇨ Quais são os principais campos e tipos?
 
 
-R:
+R: Os ID'S são os princípais campos
 
 
 ⇨ Como essas entidades estão relacionadas?
 
 
-R:
+R: Fazendo a utilização das chaves estrangeiras (FK)
+
 
 <img src="./img/individual.png">
