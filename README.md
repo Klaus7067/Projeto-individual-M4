@@ -24,4 +24,7 @@ R: Os ID'S são os princípais campos
 R: Fazendo a utilização das chaves estrangeiras (FK)
 
 
+
+        
+
 <img src="./img/individual.png">
